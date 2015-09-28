@@ -233,6 +233,7 @@ body{
 
 .ba-first{
 	background: #F06862;
+	overflow-x: hidden;
 }
 
 .ba-first__main{
@@ -297,7 +298,7 @@ body{
 	display: block;
 	background: white;
 	height: 100%;
-	width:150%;
+	width:10000%;
 	top: 0;
 	left: 0;
 	bottom:0;
