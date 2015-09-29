@@ -94,7 +94,6 @@ body{
 	position: absolute;
 	top: 100%;
 	left: -10px;
-	background-color: none;
 	padding-top: 40px;
 	visibility: hidden;
 	-webkit-transition-property: visibility;
